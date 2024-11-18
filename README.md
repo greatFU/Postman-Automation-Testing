@@ -38,4 +38,4 @@
 ## 2.3. Note for Users:
     The script is flexible and can be adapted for any project by modifying the field names in the JSON structure to match the API requirements. It is recommended to name the variables in the data file in a way that matches the variable names in the JSON structure to maintain order and ease of use. The request body in Postman is {{requestBody}} rather than the standard format.
 
-    ![pre-requestPresentation](./presentation/Pre-request.pdf)
+[presentation](presentation/AutoAPI-Pre-request.pdf)
