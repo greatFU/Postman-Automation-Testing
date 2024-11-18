@@ -1,4 +1,4 @@
-# 1. API-Automation-Testing
+# 1. Postman-Automation-Testing
  API testing automation project with Postman and JavaScript
 
 ## 1.1. Project Description:
