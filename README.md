@@ -1,5 +1,5 @@
 # 1. Postman-Automation-Testing
- API testing automation project with Postman and JavaScript
+    API testing automation with Postman, CSV data set and JavaScript
 
 ## 1.1. Project Description:
     This project is designed for API testing automation, providing tools for comparing responses with expected results, excluding dynamic fields, and ensuring test stability. The main goal of the project is to simplify and speed up the API testing process, making it more reliable and flexible.
