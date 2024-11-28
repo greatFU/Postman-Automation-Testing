@@ -5,5 +5,5 @@ Open your postman project at any level you decide to work with by taking into ac
 A guide to using the script can be found in this short presentation [test-presentation](../presentation/presentation-testScript.pdf)
 
 #### Third:
-Rewrite him as designed at this [test-request-example](../examples/TestRequestExampele.js). all you need to know about, is here: [explanationTest](../guids/test-guid.md)
-
+Rewrite him as designed at this [test-request-example](../examples/TestRequestExampele.js). all you need to know about, is here: 
+[guide-test](../guides/test-guid.md)

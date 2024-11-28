@@ -1,7 +1,7 @@
 # Postman Automation Testing 
 Automate API testing using Postman, 
 with flexible configurations for dynamic content management, 
-CSV datasets for iterative requests, and JavaScript for enhanced scripting capabilities.
+CSV datasets for iterative requests and expected results, and JavaScript for enhanced scripting capabilities.
 
 ## Project Description:
 This project is designed to automate API testing, 
@@ -32,4 +32,4 @@ Required for custom scripts that handle dynamic content and advanced response co
 Used for providing iterative test requests and expected results in bulk.
 
 ## Getting Started:
-Take your tests to the next level! Follow our [step-by-step guide](#step-by-step) to quickly set up and start automating your API testing workflow.
+Take your tests to the next level! Follow our [guide-step-by-step](step-by-step/step-1.md) to quickly set up and start automating your API testing workflow.
