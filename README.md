@@ -4,10 +4,13 @@ with flexible configurations for dynamic content management,
 CSV datasets for iterative requests and expected results, and JavaScript for enhanced scripting capabilities.
 
 ## Project Description:
-This project is designed to automate API testing, 
-streamlining the process of comparing API responses with expected results. 
-It includes features to exclude dynamic fields (e.g., IDs, timestamps) and focuses on ensuring stable and reliable testing outcomes.  
-The main goal is to simplify and accelerate the API testing workflow while providing flexibility for diverse use cases.
+This project is designed to automate API testing, streamlining the process of comparing API responses with expected results at a comprehensive level—not just at the status level, but across the entire response structure and content.
+
+It is particularly useful for regression testing, as the initial test requires a manual review to verify correctness. Once the response is validated as satisfactory, it can be saved as the expected result. Subsequent tests will automatically compare the API responses against this saved baseline.
+
+This ensures confidence that future changes in the program do not inadvertently affect existing functionality. Additionally, the project includes features to exclude dynamic fields (e.g., IDs, timestamps) and focuses on ensuring stable and reliable testing outcomes.
+
+The main goal is to simplify and accelerate the API testing workflow while providing flexibility for diverse use cases, particularly in scenarios where maintaining the integrity of existing features is critical.
 
 ## Key Feature:
 - **Dynamic Content Management:**  
